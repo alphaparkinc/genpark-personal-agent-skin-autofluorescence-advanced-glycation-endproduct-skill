@@ -1,0 +1,16 @@
+{
+  "name": "genpark-personal-agent-skin-autofluorescence-advanced-glycation-endproduct-skill",
+  "version": "1.0.0",
+  "title": "Skin Autofluorescence (SAF) & Glycation Age Skill",
+  "category": "Personal Agent (Bio / Glycobiology & Vascular Aging)",
+  "description": "Quantifies non-invasive Skin Autofluorescence (SAF) reflecting tissue Advanced Glycation End-products (AGEs), calculating vascular stiffness and biological microvascular age.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "assess_skin_autofluorescence_glycation"
+  ],
+  "dependencies": []
+}
